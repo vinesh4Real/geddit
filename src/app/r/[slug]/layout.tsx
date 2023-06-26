@@ -11,7 +11,7 @@ import { ReactNode } from 'react'
 
 export const metadata: Metadata = {
   title: 'geddit',
-  description: 'A Reddit clone built with Next.js and TypeScript.',
+  description: 'A community based forum built with Next.js and TypeScript.',
 }
 
 const Layout = async ({
